@@ -1,6 +1,6 @@
 # [Spring Boot/JPA] 🐰 Alice Diary : 나만의 Purple 매니저
 - **`프로젝트 기간`** : 2022.07.01 ~ 08.03
-- **`프로젝트 구성원`** : 우문주(팀장), 하예진, 김수림, 홍다은, 김민경 (팀이름 : AWS)
+- **`프로젝트 구성원`** : 우문주(팀장), 김민경, 김수림, 하예진, 홍다은 (팀이름 : AWS)
 - **`개발환경`**
     - **기술스택** : Java (JDK 1.8), **Spring Boot, Spring Security, JPA**, Spring Security, Thymeleaf, Oracle DB(Oracle Database 21c Express Version), Oracle Cloud, Tomcat, AWS(EC2)
     HTML/CSS, Javascript, Ajax, Bootstrap
