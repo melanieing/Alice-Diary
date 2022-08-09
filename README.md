@@ -5,6 +5,7 @@
     - **기술스택** : Java (JDK 1.8), **Spring Boot, Spring Security, JPA**, Spring Security, Thymeleaf, Oracle DB(Oracle Database 21c Express Version), Oracle Cloud, Tomcat, AWS(EC2)
     HTML/CSS, Javascript, Ajax, Bootstrap
     - **개발도구** : Spring Tool Suite 3, SQL developer, Git/Github, Notion, Slack, ErdCloud, Google Drive, Kakaotalk롲
+- **`전체 코드 저장소`** : https://github.com/A-Womans-Society/alice-diary/tree/main
     
 ![image](https://user-images.githubusercontent.com/91274798/183587029-d8f61f34-dd3a-4098-8655-f5e083ac25ec.png)
 ![image](https://user-images.githubusercontent.com/91274798/183587197-309e3739-fcb3-4af7-8705-3083fddfd9d6.png)
